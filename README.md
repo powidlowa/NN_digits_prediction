@@ -1,2 +1,2 @@
 # neural_network_digits_prediction
-Lab: Neural Network realization in Python 
+Neural Network in Python from scratch
